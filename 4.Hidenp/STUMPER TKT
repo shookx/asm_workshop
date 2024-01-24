@@ -16,3 +16,7 @@ A FAIREE
 
 ## Comment compiler (POUR CET EXERCICE) ?
 
+nasm -f elf64 Hidenp.asm
+
+gcc main.c Hidenp.o
+
