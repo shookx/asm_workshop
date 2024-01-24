@@ -31,12 +31,12 @@ Ex2 : My_Hello_World (voir repo)
 
 Ex3 : My_Strlen (voir repo)
 
-Ex4: Revstr (bientôt repo)
+Ex4 : Revstr (voir repo)
 
 Ex5 : Hidenp (voir repo)
 
-Ex6: Getnbr (bientot repo)
+Ex6 : Getnbr (bientot repo)
 
 POUR LES TECH 2: 
 
-    Ex 7: récuperer des argvs, getnbr chaque argv, et les trier par ordre croissant (bientôt repo)
+    Ex 7 : récuperer des argvs, getnbr chaque argv, et les trier par ordre croissant (bientôt repo)
