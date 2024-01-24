@@ -5,16 +5,7 @@ BITS 64
 ;rdi string ptr
 
 section .text
-    global my_strlen
+    global my_Strlen
 
-    my_strlen:
-        xor rax, rax
-
-    loop_strlen:
-        cmp byte[rdi + rax], 0
-        je end_strlen
-        inc rax
-        jmp loop_strlen
-
-    end_strlen:
-        ret
+    my_Strlen:
+        

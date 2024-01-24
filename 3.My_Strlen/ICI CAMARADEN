@@ -6,4 +6,4 @@ codez votre implémentation de STRLEN en assembleur ici
 
 nasm -f elf64 Strlen.asm            (pour créer le fichier objet)
 
-gcc main.c Strlen.o                  (pour "faire apparaître" ton executable)
+gcc main.c Strlen.o                 (pour "faire apparaître" ton executable)
