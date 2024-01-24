@@ -10,10 +10,6 @@ Par exemple:
 
     Tas de foin: "aguideofn" ==> "aGUIDeOfN" ==> "guidon", ou l'aiguille, est donc présente dans le tas de foin "aguideofn"
 
-
-
-A FAIREE
-
 ## Comment compiler (POUR CET EXERCICE) ?
 
 nasm -f elf64 Hidenp.asm
