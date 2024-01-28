@@ -1,5 +1,5 @@
 # asm_workshop
-asm_workshop 24/01
+asm_workshop 31/02/2024
 
 ## Requirements **IMPORTANT**
 - Créer un repository avec votre nom et prénoms
