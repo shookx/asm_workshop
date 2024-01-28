@@ -18,31 +18,32 @@ asm_workshop 24/01
     
     Introduction simple à l'assembleur, aux registres, etc
 
-    Premier Hello World (Prise en main assisté + correction pour bien comprendre)
+    Premier Hello World
 
-    Coder un Strlen (avec un main à l'appui + correction pour bien comprendre)
+    Coder un Strlen simple
+ 
+    Coder un Revstr simple
 
-    Coder un Revstr (avec un main à l'appui)
+    Coder un Getnbr simple
 
-    Coder un Hidenp (avec un main à l'appui)
+    Coder un Hidenp simple
 
-    Coder un Getnbr (bientôt repo)
 
 
 ## Ordre des exos
 
-Ex1 : Hello_World_exp (voir repo)
+Exercice 1 : Hello_World_exp
 
-Ex2 : My_Hello_World (voir repo)
+Exercice 2 : My_Hello_World
 
-Ex3 : My_Strlen (voir repo)
+Exercice 3 : My_Strlen
 
-Ex4 : Revstr (voir repo)
+Exercice 4 : My_Revstr
 
-Ex5 : Hidenp (voir repo)
+Exercice 5 : My_Getnbr
 
-Ex6 : Getnbr (voir repo)
+Exercice 6 : Hidenp
 
-POUR LES TECH 2: 
+POUR LES TECH 2 (essayez au moins): 
 
-    Ex 7 : récuperer des argvs, getnbr chaque argv, et les trier par ordre croissant (bientôt repo)
+    Exercice 7 : récuperer des argvs, getnbr chaque argv, et les trier par ordre croissant
