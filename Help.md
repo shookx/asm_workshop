@@ -39,9 +39,8 @@
 #### 7. **Initialisation dans la Section .bss :**
    - Utilisation des directives de données (`resb`, `resw`, `resd`, `resq`) pour déclarer des données non initialisées dans la section `.bss`.
    - Exemple : `my_variable resq 1` pour déclarer une variable de 64 bits (quadword) non initialisée.
-
-
-
+<br>
+<br>
 
 ### Mémoire Statique (.data) vs Heap (Tas) vs Stack (Pile)
 
