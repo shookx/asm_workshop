@@ -8,6 +8,7 @@ asm_workshop 31/02/2024
 
     https://github.com/amdjadouxx
 
+-avoir gcc et nasm sur son pc
 
 ## Aide
 
