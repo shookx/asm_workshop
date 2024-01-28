@@ -7,8 +7,9 @@ asm_workshop 31/02/2024
 - Mettez le en **PUBLIQUE** pour faciliter l'organisation **(et envoyez moi le lien de votre repo ou mettez moi en collaborateur)**
 
     https://github.com/amdjadouxx
-
--avoir gcc et nasm sur son pc
+  
+  
+- avoir gcc et nasm sur son pc
 
 ## Aide
 
