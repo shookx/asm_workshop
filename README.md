@@ -4,8 +4,14 @@ asm_workshop 24/01
 ## Requirements **IMPORTANT**
 - Créer un repository avec votre nom et prénoms
 
-- Mettez le en **PUBLIQUE** pour faciliter l'organisation
+- Mettez le en **PUBLIQUE** pour faciliter l'organisation **(et envoyez moi le lien de votre repo ou mettez moi en collaborateur)**
 
+    https://github.com/amdjadouxx
+
+
+## Aide
+
+    https://chromium.googlesource.com/chromiumos/docs/+/HEAD/constants/syscalls.md
 
 
 ## Planning 
@@ -35,7 +41,7 @@ Ex4 : Revstr (voir repo)
 
 Ex5 : Hidenp (voir repo)
 
-Ex6 : Getnbr (bientot repo)
+Ex6 : Getnbr (voir repo)
 
 POUR LES TECH 2: 
 
