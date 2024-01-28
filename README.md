@@ -47,3 +47,35 @@ Exercice 6 : Hidenp
 POUR LES TECH 2 (essayez au moins): 
 
     Exercice 7 : récuperer des argvs, getnbr chaque argv, et les trier par ordre croissant
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PS: J'ai patch la faille, Nao ;)
