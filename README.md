@@ -7,11 +7,9 @@ asm_workshop 31/02/2024
 - Mettez le en **PUBLIQUE** pour faciliter l'organisation **(et envoyez moi le lien de votre repo)**
 
     **A Rendre avant 23:42 le 31/01/2024**
-
-    https://github.com/amdjadouxx
   
   
-- avoir gcc et nasm sur son pc
+- avoir gcc nasm, et ld sur son pc
 
 ## Aide
 
