@@ -50,7 +50,7 @@ Exercice 6 : Hidenp
 
 ADVANCED : 
 
-    Exercice 7 : 
+    Exercice 7 : coder un tri à bulle pour un tableau d'int
 
 
 
