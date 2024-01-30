@@ -4,7 +4,9 @@ asm_workshop 31/02/2024
 ## Requirements **IMPORTANT**
 - Créer un repository avec votre nom et prénoms
 
-- Mettez le en **PUBLIQUE** pour faciliter l'organisation **(et envoyez moi le lien de votre repo ou mettez moi en collaborateur)**
+- Mettez le en **PUBLIQUE** pour faciliter l'organisation **(et envoyez moi le lien de votre repo)**
+
+    **A Rendre avant 23:42 le 31/01/2024**
 
     https://github.com/amdjadouxx
   
@@ -46,7 +48,7 @@ Exercice 5 : My_Getnbr
 
 Exercice 6 : Hidenp
 
-POUR LES TECH 2 (essayez au moins): 
+ADVANCED : 
 
     Exercice 7 : récuperer des argvs, getnbr chaque argv, et les trier par ordre croissant
 
