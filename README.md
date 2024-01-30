@@ -50,7 +50,7 @@ Exercice 6 : Hidenp
 
 ADVANCED : 
 
-    Exercice 7 : récuperer des argvs, getnbr chaque argv, et les trier par ordre croissant
+    Exercice 7 : 
 
 
 
